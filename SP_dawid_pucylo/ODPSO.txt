@@ -1,0 +1,9 @@
+chmod 070 dom.txt -> chmod g+rwx dom.txt
+
+
+chmod 124 kot.txt -> chmod u+x dom.txt / chmod g+wx dom.txt / chmod o+rwx dom.txt
+
+
+chmod 610 main.c -> chmod u+rw dom.txt / chmod g+x dom.txt
+
+chmod 777 styl.java -> chmod u+rwx styl.java / chmod g+rwx styl.java / chmod o+rwx styl.java
